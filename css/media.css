@@ -1,0 +1,393 @@
+/*============xs device============*/
+
+@media  (max-width: 575.98px) { 
+    .navbar-toggler i {
+        color: #ffffff;
+    }
+    .navbar-toggler{
+        border: 0;
+    }
+   .navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-nav {
+    margin-left: 0px;
+    background-color: #3c3d3d;
+    text-align: center;
+    padding: 15px 0;
+}
+.navbar-nav .nav-link {
+    padding: 7px 24px !important;
+}
+.banner-text h2 {
+font-size: 42px;
+line-height: normal ;
+}
+.banner-text p::before {
+    bottom: 105px;
+}
+.btn0 a {
+    background-color: #3c3d3d;
+    padding: 10px 15px;
+    color: #ffffff;
+    font-size: 15px;
+}
+.relevant {
+    padding-top: 60px;
+    padding-bottom: 55px;
+}
+.relevant-item {
+    margin-bottom: 25px;
+}
+.welcome .headline h2 {
+    padding-top: 8px;
+}
+.headline {
+    padding-bottom: 12px;
+}
+.button {
+    padding-top: 50px;
+}
+.wlc-01 .headline h4 {
+    padding-top: 0px;
+}
+.button {
+    padding-bottom: 48px;
+}
+.welcome {
+    padding-bottom: 51px;
+}
+#benifit {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.benifit-item {
+    margin-bottom: 18px;
+}
+.text p {
+    padding-right: 140px;
+}
+.upcoming {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+.upcoming .headline {
+    padding-bottom: 39px;
+}
+.world {
+    margin-top: 38px;
+}
+.upcoming-text p {
+    padding-right: 66px;;
+}
+.world-text {
+    padding-top: 40px;
+}
+.headline-01 h2 {
+    font-size: 30px;
+    text-align: center;
+}
+.share {
+    padding: 65px 0px;
+}
+.share {
+    padding-bottom: 45px;
+}
+.share-01 {
+    margin-bottom: 30px;
+}
+.headline-01 h2 {
+    padding-bottom: 40px;
+}
+.logo-last {
+    padding: 17px 0;
+}
+.footer-01{
+    padding-top: 0px;
+}
+}
+/*============sm device============*/
+@media  (min-width: 576px) and (max-width: 767.98px){
+ .navbar-toggler i {
+        color: #ffffff;
+    }
+ .navbar-toggler{
+        border: 0;
+    }
+ .navbar-toggler:focus {
+    box-shadow: none;
+}
+.navbar-nav {
+    margin-left: 0px;
+    background-color: #3c3d3d;
+    text-align: center;
+    padding: 15px 0;
+}
+.navbar-nav .nav-link {
+    padding: 7px 24px !important;
+}
+.btn0 a {
+    background-color: #3c3d3d;
+    padding: 10px 15px;
+    color: #ffffff;
+    font-size: 15px;
+}
+.banner-text {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.relevant {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.relevant-item {
+    margin-bottom: 25px;
+}
+.headline {
+    padding-bottom: 5px;
+}
+.welcome {
+    padding-bottom: 33px;
+}
+.welcome-pic-01 {
+    padding-top: 17px;
+}
+.wlc-01 .headline h4 {
+    padding-top: 32px;
+    padding-bottom: 0px;
+}
+.wlc-01 .headline h2 {
+    padding-bottom: 4px;
+}
+.wlc-01 .headline p {
+    padding: 0 50px;
+}
+.button {
+    padding-bottom: 10px;
+}
+.button a {
+    border-radius: 2px;
+    padding: 10px 25px;
+}
+#benifit {
+    padding-top: 34px;
+    padding-bottom: 34px;
+}
+.benifit-item {
+    margin-bottom: 25px;
+}
+.text {
+    bottom: -150px;
+}
+.upcoming {
+    padding-top: 5px;
+}
+.upcoming .headline {
+    padding-bottom: 20px;
+}
+.upcoming-text p {
+    padding-right: 66px;;
+}
+.upcoming {
+    padding-bottom: 53px;
+}
+.world {
+    margin-top: 38px;
+}
+.world-text {
+    padding-top: 40px;
+}
+.headline-01 h2 {
+    font-size: 39px;
+    padding-bottom: 41px;
+}
+.share {
+    padding: 41px 0;
+}
+.share-01 {
+    margin-bottom: 20px;
+}
+.share-01 h2 {
+    font-size: 21px;
+    padding-bottom: 5px;
+    padding-top: 5px;  
+}
+.share-011 {
+    padding-bottom: 20px;
+}
+.logo-last {
+    padding-bottom: 0px;
+    padding-top: 20px;
+}
+.footer-03 h2 {
+    padding-top: 30px;
+}
+   
+}
+
+/*============md device============*/
+@media  (min-width: 768px) and (max-width:991.98px){
+
+.navbar-nav .nav-link {
+    padding: 0px 12px !important;
+}
+.btn0 a {
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+.banner-text h2 {
+    padding-right: 65px;
+}
+.banner-text p::before {
+    bottom: 12px;
+}
+.relevant {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.welcome {
+    padding-bottom: 30px;
+}
+#benifit {
+    padding-top: 70px;
+    padding-bottom: 80px;
+}
+.benifit-item {
+    margin-bottom: 25px;
+}
+.relevant-item {
+    padding: 20px;
+}
+.relevant-item h2 {
+    font-size: 29px;
+}
+.upcoming {
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+.world-text h2 {
+    font-size: 30px;
+    line-height: 44px;
+    padding-right: 0;
+}
+.share-01 {
+    margin-bottom: 20px;
+}
+.sub button {
+    padding: 22px 35px;
+}
+}
+/*============lg device============*/
+@media  (min-width: 992px) and (max-width: 1199.98px){
+
+.banner-text h2 {
+	font-size: 45px;
+	line-height: 64px;
+}
+.banner-text p {
+	padding-right: 90px;
+}
+.relevant-item {
+	padding: 50px;
+}
+.text h3 {
+	font-size: 16px;
+}
+.text p {
+	font-size: 14px;
+}
+.text {
+	bottom: -135px;
+    padding: 30px;
+}
+.upcoming {
+	padding-top: 70px;
+}
+.upcoming-text {
+	padding: 20px 15px;
+}
+.date {
+	top: 0px;
+	right: 16px;
+}
+.pe-5 {
+	padding-right: 2rem !important;
+}
+.upcoming-text h3 {
+	padding-right: 50px;
+	padding-bottom: 5px;
+}
+.register a {
+	padding: 10px 32px;
+	border-radius: 5px;
+}
+.register {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.upcoming-text p {
+	padding-bottom: 7px;
+}
+.upcoming {
+	padding-bottom: 50px;
+}
+.world-text h2 {
+	font-size: 32px;
+	line-height: 40px;
+	padding-right: 0px;
+}
+.world-text p {
+	padding-right: 30px;
+}
+.share {
+	padding: 62px 0;
+}
+.share-01 {
+	padding: 20px 20px;
+}
+.share-01 h2 {
+	font-size: 20px;
+	padding-right: 0px;
+}
+.footer-03 h2 {
+	font-size: 27px;
+}
+.sub button {
+	padding: 25px 32px;
+}
+}
+/*============xlg device============*/
+    @media  (min-width: 1200px) and (max-width: 1399.98px){
+.banner-text h2 {
+	font-size: 56px;
+}
+.banner-text p {
+	padding-right: 200px;
+}
+.text {
+	bottom: -125px;
+}
+.headline h2 {
+	font-size: 45px;
+}
+.upcoming-text {
+	padding: 37px 25px;
+}
+.date {
+	top: 0px;
+	right: 20px;
+}
+.upcoming {
+	padding-bottom: 55px;
+}
+.world-text p {
+	padding-right: 65px;
+}
+.share-01 h2 {
+	padding-right: 0px;
+}
+.sub button {
+	padding: 25px 50px;
+}
+}
